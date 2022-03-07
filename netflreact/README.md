@@ -1,4 +1,4 @@
-## Netflix 메인 페이지 클론코딩(React) 활용
+## Netflix 메인 페이지 클론코딩(React 활용)
 
 ### 프로젝트 정보
   - 서비스 소개 : React와 TMDB API를 활용하여 Netflix 웹사이트 구현 
