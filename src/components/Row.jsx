@@ -35,7 +35,7 @@ const Row = (props) => {
                         key={movie.id}
                         className={`row__poster ${props.isLargeRow && "row__posterLarge"}`}
                         src={`${baseUrl}${props.isLargeRow ? movie.poster_path : movie.backdrop_path}`}
-                        akt={movie.name}/>
+                        akt={movie.name}/>              
                 )}
         </div>
     </div>
