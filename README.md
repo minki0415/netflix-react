@@ -12,3 +12,6 @@
     ![image](https://user-images.githubusercontent.com/93183070/156959804-7ac638e4-4676-4d3e-b345-e1d378251f85.png)
     ![image](https://user-images.githubusercontent.com/93183070/156959832-7f968114-489a-46fa-b8b3-3998499c5ac0.png)
 
+### 참고
+  
+  - https://www.youtube.com/watch?v=XtMThy8QKqU&t=7292s
